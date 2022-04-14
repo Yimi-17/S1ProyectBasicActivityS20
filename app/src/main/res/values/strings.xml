@@ -6,8 +6,8 @@
     <string name="second_fragment_label">Segundo Fragmento</string>
     <string name="third_fragment_label">Tercer Fragmento</string>
     <string name="next">Siguiente</string>
-    <string name="previous">Finalmente</string>
-    <string name="finaly">Atras</string>
+    <string name="previous">Atras</string>
+    <string name="finaly">Finalmente</string>
 
     <string name="hello_first_fragment">Hola primer fragmento</string>
     <string name="hello_second_fragment">Hola segundo fragmento</string>
