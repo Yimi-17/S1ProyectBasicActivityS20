@@ -1,12 +1,15 @@
 <resources>
     <string name="app_name">S1 Proyect - BasicActivity - UPeU Juliaca</string>
-    <string name="action_settings">Ajuntes</string>
+    <string name="action_settings">Ajustes</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">Primer Fragmento</string>
     <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="third_fragment_label">Tercer Fragmento</string>
     <string name="next">Siguiente</string>
-    <string name="previous">Atras</string>
+    <string name="previous">Finalmente</string>
+    <string name="finaly">Atras</string>
 
     <string name="hello_first_fragment">Hola primer fragmento</string>
-    <string name="hello_second_fragment">Hola segundo fragmento. Arg: %1$s</string>
+    <string name="hello_second_fragment">Hola segundo fragmento</string>
+    <string name="hello_third_fragment">Hola tercer fragmento</string>
 </resources>
